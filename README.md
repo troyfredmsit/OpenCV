@@ -1,0 +1,1 @@
+This is a grouping of open CV attempts. 
